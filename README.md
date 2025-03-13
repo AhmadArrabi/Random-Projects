@@ -29,3 +29,5 @@ Collection of random Data Science projects I worked on at the start of my journe
 - Survey analysis
 
   This is a generic data analysis exercise where a simple analysis of a survey on online learning was done. I think this was when I was first learnig pandas 🐼 maybe around 2019
+
+- Netflix rating predictiom
