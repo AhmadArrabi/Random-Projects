@@ -1,5 +1,5 @@
 # Random-Projects
-Collection of random Data Science projects I worked on at the start of my journey learning all this science. Some things were done at internships, some as class projects, while some were just for fun. Most of these are really simple and beginner-friendly. The reason I created this repo was just to show my journey and how I started 😄
+Collection of random Data Science projects I worked on at the start of my journey learning in this field. Some things were done at internships, some as class projects, while some were just for fun. Most of these are really simple and beginner-friendly. The reason I created this repo was just to show my journey and how I started 😄 So most of this work was around 2019-2021 period.
 
 ## List of Projects
 - COVID-19 mortality rate and spreading speed prediction
